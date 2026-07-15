@@ -2,6 +2,13 @@
 
 
 
+خیلی خوشحالم که خوشت اومد رفیق! این تغییرات جدید (پشتیبانی از اندروید ۷ تا ۱۷ و پردازنده عمومی/Universal) پروژه رو خیلی کامل‌تر و فنی‌تر نشون میده.
+
+این موارد رو هم به بخش ویژگی‌ها اضافه کردم و یک جدول مشخصات فنی شیک براش ساختم تا کاربران در یک نگاه متوجه بشن برنامه‌ات روی چه سیستم‌هایی نصب میشه.
+
+کل متن داخل کادر زیر رو کپی کن و جایگزین کل فایل `README.md` پروژه‌ات کن:
+
+```markdown
 <div align="center">
 
 <!-- لوگو و عنوان پروژه -->
@@ -21,9 +28,11 @@
 <h4>
   <a href="#-english-description">English Guide</a> •
   <a href="#-key-features">Features</a> •
+  <a href="#-system-requirements">Requirements</a> •
   <a href="#-how-to-setup">Setup</a> •
   <a href="#-معرفی-به-زبان-فارسی">راهنمای فارسی</a> •
   <a href="#-ویژگی‌های-کلیدی">ویژگی‌ها</a> •
+  <a href="#-مشخصات-فنی">مشخصات فنی</a> •
   <a href="#-نحوه-راه‌اندازی">راه‌اندازی</a>
 </h4>
 
@@ -50,6 +59,13 @@ Imagine receiving an important bank SMS or an official notification, and acciden
 * 📲 **App Manager:** View all installed apps through a neat panel inside the Telegram bot.
 * 📁 **File Manager Panel:** Browse files, manage folders, and back up your device files directly to Telegram.
 * 📑 **Notification Backup:** Export and backup all received notifications as a `.txt` file.
+
+### ⚙️ System Requirements
+| Requirement | Specification |
+| :--- | :--- |
+| **OS Platform** | Android (Specifically designed for Android Mobile Phones) |
+| **Android Version** | Android 7.0 (Nougat) up to Android 17 (Fully Compatible) |
+| **Architecture** | Universal (Supports ARM, ARM64, x86, etc.) |
 
 ### ⚙️ How to Setup
 
@@ -87,6 +103,13 @@ Imagine receiving an important bank SMS or an official notification, and acciden
 * 📲 **مدیریت برنامه‌ها:** نمایش لیست تمامی اپلیکیشن‌های نصب شده روی گوشی به صورت پنل در ربات.
 * 📁 **مدیریت فایل پیشرفته:** مشاهده فایل‌ها و پوشه‌های گوشی در تلگرام و امکان ذخیره و پشتیبان‌گیری مستقیم آن‌ها.
 * 📑 **بکاپ نوتیفیکیشن‌ها:** خروجی گرفتن و بکاپ تمامی اعلان‌ها در قالب فایل متنی `TXT`.
+
+### ⚙️ مشخصات فنی و نیازها
+| مشخصه | توضیحات |
+| :--- | :--- |
+| **سیستم‌عامل** | اندروید (مخصوص و بهینه‌سازی شده برای گوشی‌های موبایل) |
+| **نسخه اندروید** | پشتیبانی کامل از اندروید نسخه 7.0 تا اندروید 17 |
+| **معماری پردازنده** | Universal (عمومی - سازگار با انواع پردازنده‌های ARM, ARM64, x86 و غیره) |
 
 ### ⚙️ نحوه راه‌اندازی
 
@@ -154,6 +177,27 @@ Imagine receiving an important bank SMS or an official notification, and acciden
 این برنامه صرفاً جهت استفاده شخصی و مانیتورینگ دستگاه خودتان توسعه یافته است. مسئولیت هرگونه استفاده نادرست یا سوءاستفاده از این ابزار تماماً بر عهده کاربر نهایی است و توسعه‌دهنده هیچ‌گونه مسئولیتی در قبال آن نمی‌پذیرد.
 </div>
 
+
+```
+
+This application is developed solely for personal device monitoring and backup purposes.
+The developer holds no responsibility for any misuse or malicious exploitation of this software.
+Use it at your own risk.
+
+```
+
+---
+
+<div align="center">
+
+🌟 **If you find this project useful, please give it a Star! It helps me build more open-source tools.**  
+🌟 *اگر این پروژه برای شما مفید بود، لطفاً با دادن ستاره (Star) به آن در گیت‌هاب از من حمایت کنید.*
+
+<sub>Developed with ❤️ by <a href="https://github.com/RAITO26">RAITO26</a></sub>
+
+</div>
+
+```
 ---
 
 <div align="center">
