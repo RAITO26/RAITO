@@ -1,8 +1,10 @@
-<img width="572" height="1024" alt="269052397_1781543896000940" src="https://github.com/user-attachments/assets/5895865e-5707-4be0-afba-9e9f9e2149b7" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/14df3ba6-8b1e-486b-8bdd-fbaac0e95f96" />
+
+
 
 📋 RAITO : Notification management in Telegram bot |  مدیریت نوتیفیکشن های گوشی و ذخیره ان در تلگرام
 
-RAITO / رایتو چیست 🤨
+RAITO / رایتو  🤨
 
 رایتو نرم افزار متن بازی هست که برای مدیریت و ذخیره نوتیفیکشن های دریافتی گوشی اندروید در ربات تلگرامی هست 😄
 
@@ -71,7 +73,7 @@ RAITO / رایتو چیست 🤨
 
 کافیه روی More Details بزنین و install eneway بزنید .
 
-در حر صورت انتخا با خودتونه و برنامه مشکلی نداره 🤗
+در حر صورت انتخاب با خودتونه و برنامه مشکلی نداره 🤗
 
 
 هر گونه استفاده غلط به عهده استفاده کننده هست من مسعولیتی به گردنم نمیگیرم 
