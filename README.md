@@ -1,14 +1,6 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/14df3ba6-8b1e-486b-8bdd-fbaac0e95f96" />
 
 
-
-خیلی خوشحالم که خوشت اومد رفیق! این تغییرات جدید (پشتیبانی از اندروید ۷ تا ۱۷ و پردازنده عمومی/Universal) پروژه رو خیلی کامل‌تر و فنی‌تر نشون میده.
-
-این موارد رو هم به بخش ویژگی‌ها اضافه کردم و یک جدول مشخصات فنی شیک براش ساختم تا کاربران در یک نگاه متوجه بشن برنامه‌ات روی چه سیستم‌هایی نصب میشه.
-
-کل متن داخل کادر زیر رو کپی کن و جایگزین کل فایل `README.md` پروژه‌ات کن:
-
-```markdown
 <div align="center">
 
 <!-- لوگو و عنوان پروژه -->
@@ -175,31 +167,4 @@ Imagine receiving an important bank SMS or an official notification, and acciden
 
 <div dir="rtl">
 این برنامه صرفاً جهت استفاده شخصی و مانیتورینگ دستگاه خودتان توسعه یافته است. مسئولیت هرگونه استفاده نادرست یا سوءاستفاده از این ابزار تماماً بر عهده کاربر نهایی است و توسعه‌دهنده هیچ‌گونه مسئولیتی در قبال آن نمی‌پذیرد.
-</div>
-
-
-```
-
-This application is developed solely for personal device monitoring and backup purposes.
-The developer holds no responsibility for any misuse or malicious exploitation of this software.
-Use it at your own risk.
-
-```
-
----
-
-<div align="center">
-
-🌟 **If you find this project useful, please give it a Star! It helps me build more open-source tools.**  
-🌟 *اگر این پروژه برای شما مفید بود، لطفاً با دادن ستاره (Star) به آن در گیت‌هاب از من حمایت کنید.*
-
-<sub>Developed with ❤️ by <a href="https://github.com/RAITO26">RAITO26</a></sub>
-
-</div>
-
-```
----
-
-<div align="center">
-  <sub>Developed with ❤️ by <a href="https://github.com/RAITO26">RAITO26</a></sub>
 </div>
