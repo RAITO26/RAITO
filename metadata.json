@@ -1,0 +1,11 @@
+{
+  "name": "RAITO",
+  "description": "Premium multi-device system monitoring and notification synchronization assistant.",
+  "requestFramePermissions": [
+    "android.permission.RECEIVE_SMS",
+    "android.permission.READ_SMS",
+    "android.permission.POST_NOTIFICATIONS",
+    "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
