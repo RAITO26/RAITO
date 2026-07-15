@@ -2,81 +2,79 @@
 
 
 
-📋 RAITO : Notification management in Telegram bot |  مدیریت نوتیفیکشن های گوشی و ذخیره ان در تلگرام
+<div align="center">
 
-RAITO / رایتو 
+<!-- لوگو و عنوان شیک پروژه -->
+<h1>⚡ RAITO ⚡</h1>
 
-رایتو نرم افزار متن بازی هست که برای مدیریت و ذخیره نوتیفیکشن های دریافتی گوشی اندروید در ربات تلگرامی هست 😄
+<p>
+  <strong>A powerful, high-performance, and lightweight Python to EXE converter.</strong>
+  <br />
+  <em>یک ابزار قدرتمند، پرسرعت و فوق‌العاده سبک برای تبدیل فایل‌های پایتون به نسخه اجرایی EXE.</em>
+</p>
 
-فرض کن پیامکی از بانک یا پیامک اداری برات امده اشتباهی دستت بخوره پاک بشه نمیشه بر گردوند این برنامه کارش همینه پیامک ها رو به ربات تلگرام ارسال میکنه نه تنها پیامک بلکه کل تمام نوتیفیکشن هایی که برای گوشیت ارسال میشن رو ذخیره میکنه 😁
+<!-- نشان‌های پویا و شیک گیت‌هاب -->
+<p>
+  <img src="https://img.shields.io/github/stars/RAITO26/RAITO?style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
+  <img src="https://img.shields.io/github/license/RAITO26/RAITO?style=for-the-badge&color=green" alt="License" />
+  <img src="https://img.shields.io/github/languages/top/RAITO26/RAITO?style=for-the-badge&color=blue" alt="Languages" />
+</p>
 
-یه سری امکانات جالب براش اضافه کردم از جمله :
+---
 
-بررسی وضعیت دستگاه 📱
+<h4>
+  <a href="#-about-raito">About</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-contact">Contact</a> •
+  <a href="#-درباره-رایتو">درباره پروژه</a> •
+  <a href="#-ویژگی‌ها">ویژگی‌ها</a> •
+  <a href="#-ارتباط-با-من">ارتباط با من</a>
+</h4>
 
-نشان دادن لاگ ها وضعیت خطا و لحظه ای به صورت زنده 📊
+</div>
 
-نمایش تمامی پیامک های موجود در گوشی و امکان بکاپ گرفتن از پیامک ها 📃
+<br />
 
-نمایش گزارش تماس های دریافتی بی پاسخ و رد شده و امکان بکاپ گیری از ان ها 💡
+<!-- بخش انگلیسی (چپ‌چین استاندارد) -->
+## 🇺🇸 English Description
 
-نشان دادن تمامی برنامه های نصب شده در گوشی به صورت پنل در ربات 📲
+### 📝 About RAITO
+**RAITO** is an open-source tool designed to convert your Python files (`.py`) into standalone executable files (`.exe`) for Windows. The main goal of this project is to provide a tool that converts scripts while producing the **lowest possible output file size**, making it incredibly lightweight and efficient compared to other alternatives.
 
-بخش مدیریت فایل برای نان دادن فایل های گوشی در تلگرام مدیریت پوشه و ذخیره و بکاپ گرفتن فایل های موجود در گوشی به تلگرام 😄
+### 🚀 Key Features
+- **⚡ High Performance & Low Volume:** Converts Python code to EXE with the lowest possible file size.
+- **🛡️ Secure & Clean Output:** Generates clean, safe, and secure executables without unnecessary overhead.
+- **🆓 100% Free & Open Source:** Licensed under the MIT License—feel free to use, modify, and distribute it!
 
-بخش گزارش و بکاپ گیری تمامی نوتیفیکشن ها  ودریافت بکاپ به صورت فایل TXT 🤗
+### 📧 Contact & Socials
+If you have any questions, suggestions, or want to contribute to the project, feel free to reach out:
+* **Telegram:** [@RAITO_26](https://t.me/RAITO_26)
 
+---
 
+<!-- بخش فارسی (راست‌چین شده و کاملاً خوانا) -->
+<div dir="rtl">
 
-عکس هایی از محیط برنامه : 
+## 🇮🇷 معرفی به زبان فارسی
 
-<img width="620" height="1280" alt="photo_9_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/f67dff52-7b75-489b-83c4-3579561cda15" />
-<img width="620" height="1280" alt="photo_8_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/96a00b81-aa57-4435-b558-480f60e5cc6a" />
-<img width="620" height="1280" alt="photo_7_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/c067c7ab-9ff7-4181-a6b5-fc9ef8b81840" />
-<img width="620" height="1280" alt="photo_6_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/ec6af364-dd25-4f7d-baf6-b660edc6bd40" />
-<img width="620" height="1280" alt="photo_5_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/d5b75f39-7c74-45ec-8a9f-9dfd06296442" />
-<img width="620" height="1280" alt="photo_4_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/9a3335dc-0291-4557-8039-856c6af5f3db" />
-<img width="620" height="1280" alt="photo_3_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/0b4008fd-e577-4959-8168-7574156e1c96" />
-<img width="620" height="1280" alt="photo_2_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/dee38dde-5cda-4d58-8cd6-ae94fa7ab80c" />
-<img width="620" height="1280" alt="photo_1_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/5bf436d0-01e5-4ecf-b5e4-09bd9e65c260" />
-<img width="620" height="1280" alt="photo_11_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/b0581dc4-109c-4848-bb77-0e156abe99eb" />
-<img width="620" height="1280" alt="photo_10_2026-07-15_13-28-25" src="https://github.com/user-attachments/assets/b31a44b6-8b48-4516-ad51-cbc3b815fb70" />
+### 📝 درباره رایتو (RAITO)
+برنامه **RAITO** یک ابزار متن‌باز برای تبدیل فایل‌های پایتون (`.py`) به فایل‌های اجرایی تحت ویندوز (`.exe`) است. هدف اصلی و تمرکز این پروژه بر روی **کاهش حداکثری حجم فایل خروجی** است؛ به طوری که برنامه‌های خروجی شما با کمترین حجم ممکن و بالاترین سرعت ساخته شوند.
 
-نحوه راه اندازی برنامه :
+### 🚀 ویژگی‌های کلیدی
+- **⚡ سرعت بالا و حجم کم:** تبدیل کدهای پایتون به EXE با کمترین حجم خروجی ممکن در مقایسه با ابزارهای مشابه.
+- **🛡️ خروجی امن و بهینه:** تولید فایل‌های اجرایی کاملاً بهینه، بدون کدهای زائد و کاملاً امن برای انتشار.
+- **🆓 کاملاً رایگان و متن‌باز:** تحت لایسنس MIT منتشر شده و توسعه یا شخصی‌سازی آن برای همه آزاد است.
 
-ابتدا در تلگرام وارد ربات "https://t.me/BotFather" بشین یک ربات بسازین به شما در اخر یک توکن میده که به این صورت هست :
+### 📧 ارتباط با من
+اگر سوالی دارید، به مشکلی برخوردید یا پیشنهادی برای توسعه پروژه دارید، می‌توانید از طریق راه‌ ارتباطی زیر با من در تماس باشید:
+* **تلگرام:** [@RAITO_26](https://t.me/RAITO_26)
 
-"8525496066:AAHfkEhChRG76u3GK7pwTYxBzCG2....."
+</div>
 
-این رو در برنامه قسمت Token قرار میدین 
+<br />
 
-و برای ایدی عددی ادمین این ربات رو استارت کنین : 
+---
 
-"https://t.me/userinfobot"
-
-یه ایدی این مدلی بهتون میده : 
-
-" 10336......."
-
-اونو زیر توکن قرار میدین دکمه START میزنین بعد ربات تلگرامی استارت میکنین به صورت لوکال اجرا میشه .
-
-
-
-
-
-نکته : این برنامه کامل متن باز بوده و کد های ان قابل مشاهده هست میتونین خودتون ببینی نصب کنین ☺
-
-
-امکان داره در برخی از گوشی ها فروشگاه گوگل پلی برنامه رو به عنوان ویروس بشناسه و با این خطا مواجه بشین :
-
-<img width="574" height="1280" alt="photo_2026-07-15_13-37-06" src="https://github.com/user-attachments/assets/1423752c-e180-4f02-ac89-d153eed57620" />
-
-کافیه روی More Details بزنین و install eneway بزنید .
-
-در حر صورت انتخاب با خودتونه و برنامه مشکلی نداره 🤗
-
-
-هر گونه استفاده غلط به عهده استفاده کننده هست من مسعولیتی به گردنم نمیگیرم 
-
-
-اگر خوشتون امد تو گیت هاب به من ستاره بدین تا بتونم برنامه های دیگه ای هم بسازم و این برنامه رو گسترش بدم 😊😉
+<div align="center">
+  <sub>Developed with ❤️ by <a href="https://github.com/RAITO26">RAITO26</a></sub>
+</div>
